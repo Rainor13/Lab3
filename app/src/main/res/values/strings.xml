@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab3.Touris</string>
+    <string name="tile_title_str">"My_text_is:   "</string>
+</resources>
